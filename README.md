@@ -1,5 +1,5 @@
 # darkshine
-- A single webpage developed from a mockup using HTML, CSS, Javascript.
+A single webpage developed from a mockup using HTML, CSS, Javascript.
 - jQuery content include:
-  - showcase image section
-  - sliding on/off function to facilitate a “Read More” and “Show Less”
+  - Showcase image section
+  - Sliding on/off function to facilitate a “Read More” and “Show Less”
